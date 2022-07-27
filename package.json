@@ -1,0 +1,15 @@
+{
+  "name": "echobot",
+  "version": "1.0.0",
+  "description": "echo linebot sample",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tt7t9kk9y1aaa@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
